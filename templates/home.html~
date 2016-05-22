@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+<link type="text/css" rel="stylesheet" href="/media/ishan/Study/Buckysroom/Python/Flask Tutorials/Flask practice examples/static/style.css"/>
+		<title>Flask</title>
+	</head>
+	<body>
+		<p>Hi there</p>
+	</body>
+</html>
