@@ -1,6 +1,6 @@
 #Make 2 folders:
 #1)template :for storing html files
-#2)static :for storing files that donot change like css files and js files
+#2)static :for storing files that donot change like css files
 
 from flask import Flask,render_template
 app=Flask(__name__) 
